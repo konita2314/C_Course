@@ -7,6 +7,7 @@
 #define 搞事 while
 #define 磨叽 for
 #define 寻思 if
+#define 龙 long
 #define 要不行咧就 else
 #define 问 scanf
 #define 滚犊子吧 break
@@ -41,7 +42,7 @@
 
 活雷锋 菲薄那气数列(活雷锋 干啥)
 {
-    活雷锋 老赵 装 1, 老钱 装 1, 老孙;
+    龙 龙 活雷锋 老赵 装 1, 老钱 装 1, 老孙;
     活雷锋 老李;
     
     // 修正：判断参数干啥，使用正确的比较运算符
