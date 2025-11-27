@@ -1,7 +1,8 @@
 #include <stdio.h>
+#define NUM 5
 int main()
 {
-    int score[5];
+    int score[NUM];
     int total = 0;
     int i;
     printf("Input the 5 data\n");
