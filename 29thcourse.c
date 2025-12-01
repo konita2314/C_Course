@@ -24,7 +24,7 @@ int main()
     {
         for (int k = 0; k < NUM - j - 1; k++)
         {
-            if (score[k] < score[k + 1]) // For descending order
+            if (score[k] < score[k + 1]) // For descending order    
             {
                 int temp = score[k];
                 score[k] = score[k + 1];
