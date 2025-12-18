@@ -19,4 +19,4 @@ int main()
     printf("%s\n", text);
 
     return 0;
-} 
+}
