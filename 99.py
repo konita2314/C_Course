@@ -1,4 +1,4 @@
 for i in range(1,10):
     for j in range (1,10):
-        print(str(i)+"*"+str(j)+"="+str(i*j),end="  ")
+        print(f"{i}*{j}=%2d" % (i*j), end="  ")
     print("\n",end="")

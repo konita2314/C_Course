@@ -1,0 +1,2 @@
+#include <windows.h>
+int WINAPI WinMain(HINSTANCE h,HINSTANCE p,LPSTR c,int n){MSG m;CreateWindow("EDIT",0,WS_VISIBLE|WS_OVERLAPPEDWINDOW,0,0,500,300,0,0,h,0);while(GetMessage(&m,0,0,0))DispatchMessage(&m);return 0;}
